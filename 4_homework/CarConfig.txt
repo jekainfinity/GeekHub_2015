@@ -1,0 +1,5 @@
+Frame=Frame type=cabrio length=4 
+Doors=Doors 
+Color=Color color=blue
+Engine=Engine volume=1.5 cylinder=8 
+Wheel=Wheel diameter=21
